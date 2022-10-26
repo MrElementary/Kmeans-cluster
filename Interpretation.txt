@@ -1,0 +1,42 @@
+1953 Dataset:
+
+Using 3 clusters we can see that our first cluster represents the lowest number of countries, generally first world countries. The centroid for this cluster being high up in mean
+life expectancy(65.89) and very low in birth rate(22.02)  Countries such as Australia, Japan, Korea and majority of the western european countries form part of this cluster set
+
+The next cluster represents a significantly higher birth rate(41.22) although not a large fall-off of life expectancy(55.36) This cluster represents "second-world" countries that
+are considered middle of the pack in many statistical analysis beyond this cluster data. These are countries generally from South-America such as Brazil, Chile, Cuba, Grenada and Venezuela,
+as well as some South East Asian countries like Brunei, Hong Kong, Thailand, Singapore and Phillipines.
+
+There are generally very few western european countries included in this cluster.
+
+Then finally our last cluster represents most third-world countries with the highest birth rates as well as the lowest life expectancy averages. These countries, mostly african countries
+but also including some countries outside africa like UAE, Yemen and Vietnam are countries where there were mostly war waged on during the time of this dataset, even some of these
+still in what is considered by the UN as warzones. It should also be noted that looking at our dataset as a whole this cluster also contains the most countries, at 88 total countries.
+
+Overall the trend this cluster set shows is that the lower the life expectancy, the higher the birthrate. Which makes sense in socio-economic terms, using basic social biases
+like "If we have less breadwinners, we need to create more breadwinners".
+
+
+2008 Dataset:
+
+Looking at this cluster set overall we can see that both the birth rate has decreased by a signinicant amount, with our first world countries at a rate of only 13, as well as the
+life expectancy being increased for all our clusters, with even our lowest cluster in third world countries having increased their mean life expectancy to 53.56.
+
+The Cluster containing the lowest birthrate and the highest life expectancy has also become the biggest cluster with 97 total countries included in it, with many south american countries
+now moving to this cluster 55 years later, showing a quality of life improvement overall for many countries over the 5 decades.
+
+For the lowest clusters, while the life expectancy has increased by a good margin, the birth rate has only decreased very slightly. This shows that we still have some great impact
+of socio economic instability in countries in this cluster, which still by a very large majority include countries on the african continent.
+
+
+Total dataset:
+
+Looking at a total dataset of both years of statistics, there are a number of countries that has moved from one cluster to another over the 5 decades, countries such as South Africa, Botswana
+and a few african countries to name a few. These countries have decreased in birth rate and increased in life expectancy.
+
+We can also see from the clusters data that the lowest cluster with a life expectancy of 39.4, contains no data from the 2008 data set and are all third world countries with 1953 data attached.
+We can in turn interpret this as our world as a whole has greatly improved quality of life compared to the 1950s. This would be due to less war, better medicine, vaccinations and traveling made easy.
+
+On the opposite end, our cluster representing the lowest mean birth rate at 14.3 and the highest life expectancy of 75.37, there are also mostly 2008 data set countries in however there were
+11 countries aligned to this cluster from 1953, this being smaller countries such as Austria, Belgium, Germany, Latvia and Sweden. Overall this cluster was also the biggest with a data
+set of 117 countries
